@@ -1,0 +1,26 @@
+.login-container,
+.signup-container,
+.forgot-conatiner {
+  max-width: 500px;
+  margin: 50px auto;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.btn-custom {
+  background-color: #e74c3c;
+  border-color: #e74c3c;
+  width: 100%;
+}
+.btn-custom:hover {
+  background-color: #c0392b;
+  border-color: #c0392b;
+}
+.text-custom {
+  color: #e74c3c;
+  text-decoration: none;
+}
+.text-custom:hover {
+  text-decoration: underline;
+}
